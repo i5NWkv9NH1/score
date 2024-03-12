@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@codemirror/lint": "^6.5.0",
     "@codemirror/state": "^6.4.1",
     "@codemirror/view": "^6.25.1",
     "@unocss/reset": "^0.58.5",
@@ -22,6 +23,7 @@
     "@unocss/preset-icons": "^0.58.5",
     "@unocss/preset-uno": "^0.58.5",
     "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.71.1",
     "typescript": "^5.2.2",
     "unocss": "^0.58.5",
     "vite": "^5.1.4",
